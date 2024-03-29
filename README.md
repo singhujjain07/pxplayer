@@ -1,7 +1,9 @@
 
-# Utube
+# youtube/pxplayer
 
 This application is a clone of youtube.
+
+Project is currently hosted [`https://pxplayer.netlify.app/`](https://pxplayer.netlify.app/)
 
 
 ## Tech Stack
