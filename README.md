@@ -1,5 +1,5 @@
 
-# youtube/pxplayer
+# pxplayer
 
 This application is a clone of youtube.
 
